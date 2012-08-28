@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ugenr widget</string>
+    <string name="weeknumbertext">Du er i uge</string>
+    <string name="youAreInWeek">Du er i uge</string>
+</resources>
